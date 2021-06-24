@@ -7,9 +7,6 @@ namespace Airline
 {
     class Program
     {
-
-
-
         public enum SeatPosition
         {
             Aisle,
@@ -18,14 +15,12 @@ namespace Airline
         }
         public struct Seat
         {
-            public string SeatNumber; // 10a, 10b, 10c, 10d ..10f
-            public SeatPosition SeatPosition; // window(a & f), middle(b & e), aisle (c & d)
-            public bool IsAvailable;  //aisle not available
+            public string SeatNumber;
+            public SeatPosition SeatPosition;
+            public bool IsAvailable;
         }
-
         public class Plane
         {
-
             const int NumberRows = 10;
             const int TotalSeats = NumberRows * SeatPerRow;
             const int SeatPerRow = 6;
@@ -35,14 +30,13 @@ namespace Airline
 
             public Plane()
             {
-
                 string[] letter = { "A", "B", "C", "D", "E", "F" };
 
                 for (int i = 0; i < TotalSeats;)
                 {
                     for (int j = 1; j < SeatPerRow + 1; j++)
                     {
-                        Seats[i].SeatNumber = $"{i+ 1}{letter[j - 1]}";
+                        Seats[i].SeatNumber = $"{i + 1}{letter[j - 1]}";
                         if (j == 1 || j == 6)
                         {
                             Seats[i].SeatPosition = SeatPosition.Window;
@@ -78,11 +72,6 @@ namespace Airline
         {
             Plane NelnetPrivate = new Plane();
             NelnetPrivate.PrintAvailableSeats();
-
         }
-
-        // class constructors in C#
-
-
     }
 }
