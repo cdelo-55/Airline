@@ -1,0 +1,16 @@
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\bin\Debug\net5.0\Airplane.exe
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\bin\Debug\net5.0\Airplane.deps.json
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\bin\Debug\net5.0\Airplane.runtimeconfig.json
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\bin\Debug\net5.0\Airplane.runtimeconfig.dev.json
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\bin\Debug\net5.0\Airplane.dll
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\bin\Debug\net5.0\ref\Airplane.dll
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\bin\Debug\net5.0\Airplane.pdb
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\obj\Debug\net5.0\Airplane.csproj.AssemblyReference.cache
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\obj\Debug\net5.0\Airplane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\obj\Debug\net5.0\Airplane.AssemblyInfoInputs.cache
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\obj\Debug\net5.0\Airplane.AssemblyInfo.cs
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\obj\Debug\net5.0\Airplane.csproj.CoreCompileInputs.cache
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\obj\Debug\net5.0\Airplane.dll
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\obj\Debug\net5.0\ref\Airplane.dll
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\obj\Debug\net5.0\Airplane.pdb
+C:\Users\MWilson\nelent-projects\Data-Types\Airplane\obj\Debug\net5.0\Airplane.genruntimeconfig.cache
